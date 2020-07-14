@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465715047244",
+    "firebase_url": "https://shopkaro-9d89f.firebaseio.com",
+    "project_id": "shopkaro-9d89f",
+    "storage_bucket": "shopkaro-9d89f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465715047244:android:cc2236a80614c1c140fde9",
+        "android_client_info": {
+          "package_name": "com.shopkaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465715047244-rh3dr1ptkca0jrc42780im27tu9enr1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmwe8bCdEGO2jpEwTuFfxLNPfaVx4jorw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465715047244-rh3dr1ptkca0jrc42780im27tu9enr1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
